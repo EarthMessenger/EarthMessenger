@@ -4,6 +4,6 @@
 ## 📊 每周开发统计
 <!--START_SECTION:waka-->
 ```text
-JSON         3 mins          ████████████████████████░   96.35 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
