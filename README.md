@@ -4,6 +4,6 @@
 ## 📊 每周开发统计
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++     54 mins         █████████████████████████   99.57 % 
 ```
 <!--END_SECTION:waka-->
